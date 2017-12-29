@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ted\Dropbox\PercentMod++\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3d3bfb6b14aa542bee79ffde6a993e92010ae73e">
+        <dex dex="C:\Users\Ted\Dropbox\PercentMod++\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d7cb54ffadb0dd5469c1d88791ca8dd7344e1e5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ted\Dropbox\PercentMod++\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Ted\Dropbox\PercentMod++\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_53024d8cb64e091df4a7ddb0fd823bae87cb5bef\classes.dex" />
+    </item>
+
+</items>

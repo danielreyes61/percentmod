@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "91928486815",
+    "firebase_url": "https://percentmodplusplus.firebaseio.com",
+    "project_id": "percentmodplusplus",
+    "storage_bucket": "percentmodplusplus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91928486815:android:d439c8c107686547",
+        "android_client_info": {
+          "package_name": "win.crypt.percentmod.percentmod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91928486815-tftan17g7pgr6v9l849kgtk4eelia4dj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "win.crypt.percentmod.percentmod",
+            "certificate_hash": "7759458261dcf7f52d6da6300f897780e2d253ca"
+          }
+        },
+        {
+          "client_id": "91928486815-til0vg44bvg6bf7eo768kq1epsn97nv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp6yYq28ZKBfs8AS42TvIs61FRsG509o4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91928486815-til0vg44bvg6bf7eo768kq1epsn97nv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
