@@ -28,7 +28,7 @@
         android:id="@+id/button"
         android:layout_width="141dp"
         android:layout_height="48dp"
-        android:text="Calculate"
+        android:text="@string/calculate_Text"
         tools:layout_constraintTop_creator="1"
         tools:layout_constraintRight_creator="1"
         app:layout_constraintRight_toRightOf="parent"
@@ -41,7 +41,7 @@
         android:id="@+id/button2"
         android:layout_width="88dp"
         android:layout_height="wrap_content"
-        android:text="Reset"
+        android:text="@string/reset_Text"
         tools:layout_constraintTop_creator="1"
         android:layout_marginStart="26dp"
         android:layout_marginTop="10dp"
@@ -55,7 +55,7 @@
         android:layout_width="147dp"
         android:layout_height="43dp"
         android:ems="10"
-        android:hint="Enter Max"
+        android:hint="@string/max_Hint"
         android:inputType="numberDecimal"
         tools:layout_constraintTop_creator="1"
         tools:layout_constraintRight_creator="1"
@@ -73,7 +73,7 @@
         android:layout_width="139dp"
         android:layout_height="49dp"
         android:ems="10"
-        android:hint="Enter Min"
+        android:hint="@string/min_Hint"
         android:inputType="numberDecimal"
         tools:layout_constraintTop_creator="1"
         tools:layout_constraintRight_creator="1"
@@ -97,7 +97,7 @@
         tools:layout_constraintLeft_creator="1"
         android:layout_marginBottom="16dp"
         app:layout_constraintLeft_toLeftOf="parent"
-        android:layout_marginLeft="32dp"></com.google.android.gms.ads.AdView>
+        android:layout_marginLeft="32dp"/>
 
 
 </android.support.constraint.ConstraintLayout>
